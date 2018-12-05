@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "nideshop",
+    "script": "production.js",
+    "cwd": "/home/ubuntu/deploy/mall/nideshop/www/nideshop",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}

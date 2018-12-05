@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+  nideshop:
+    pid: "nideshop"
+    privileged: true
+    restart: always
+    image: node:9.8.0
+    ports:
+      - 8360:8360
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: npm run prod
