@@ -3,6 +3,8 @@
 该项目基于 [tumobi](https://github.com/tumobi) 大神开源的项目  
 由于迁至私有仓库丢失原项目fork信息并且原项目更新缓慢，将改项目开源方便大家一起维护修改  
 原项目链接：https://github.com/tumobi  
+之后由[cjwddz](https://github.com/cjwddz/nideshop)完善了功能
+在此致谢
 
 ### 项目结构
 
@@ -49,11 +51,3 @@ const config = {
 }
 module.exports = config
 ```
-
-### 交流
-
-+ QQ: 1436983000  
-+ 交流群： 497145766
-
-### 嘻嘻
-<img src="http://source.cjwddz.cn/common/weixin.jpg"  height="450" width="300">
